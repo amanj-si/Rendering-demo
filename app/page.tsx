@@ -1,5 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 export default function Home() {
   return (
